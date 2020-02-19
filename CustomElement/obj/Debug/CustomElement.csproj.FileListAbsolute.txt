@@ -1,0 +1,5 @@
+D:\Projects\c_sharp_notification_element\CustomElement\bin\Debug\CustomElement.dll
+D:\Projects\c_sharp_notification_element\CustomElement\bin\Debug\CustomElement.pdb
+D:\Projects\c_sharp_notification_element\CustomElement\obj\Debug\CustomElement.dll
+D:\Projects\c_sharp_notification_element\CustomElement\obj\Debug\CustomElement.pdb
+D:\Projects\c_sharp_notification_element\CustomElement\obj\Debug\CustomElement.csprojAssemblyReference.cache
